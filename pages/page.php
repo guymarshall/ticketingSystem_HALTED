@@ -27,6 +27,9 @@ class Page {
                                 <a class="nav-link text-dark" href="/index.php">Home</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link text-dark" href="./add.php">Add</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link text-dark" href="/todo.php">Todo</a>
                             </li>
                             <li class="nav-item">

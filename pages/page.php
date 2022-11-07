@@ -50,8 +50,6 @@ class Page {
         </body>
         </html>';
 
-        $content = '';
-
         return $template_html;
     }
 }

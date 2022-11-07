@@ -29,15 +29,6 @@ class Page {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" href="./add.php">Add</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" href="/todo.php">Todo</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" href="/collatz.php">Collatz</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" href="/factorial.php">Factorial</a>
-                            </li>
                         </ul>
                     </div>
                 </div>

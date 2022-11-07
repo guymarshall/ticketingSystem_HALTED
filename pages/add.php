@@ -7,9 +7,6 @@ $content .= '
     <label for="title">Title: </label>
     <input type="text" name="title" id="title">
     <br>
-    <label for="room">Room: </label>
-    <input type="text" name="room" id="room">
-    <br>
     <label for="username">Username: </label>
     <input type="text" name="username" id="username">
     <br>

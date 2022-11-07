@@ -21,7 +21,7 @@ class Page {
                     <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                         <ul class="navbar-nav flex-grow-1">
                             <li class="nav-item">
-                                <a class="nav-link '; if ($title == 'Tickets') {$body_html .= 'active';} $body_html .= '" href="/index.php">Tickets</a>
+                                <a class="nav-link '; if ($title == 'All') {$body_html .= 'active';} $body_html .= '" href="/index.php">All</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link '; if ($title == 'New') {$body_html .= 'active';} $body_html .= '" href="./new.php">New</a>

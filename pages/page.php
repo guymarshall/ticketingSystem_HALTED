@@ -24,7 +24,7 @@ class Page {
                                 <a class="nav-link '; if ($title == 'Tickets') {$body_html .= 'active';} $body_html .= '" href="/index.php">Tickets</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link '; if ($title == 'Add') {$body_html .= 'active';} $body_html .= '" href="./add.php">Add</a>
+                                <a class="nav-link '; if ($title == 'New') {$body_html .= 'active';} $body_html .= '" href="./new.php">New</a>
                             </li>
                         </ul>
                     </div>

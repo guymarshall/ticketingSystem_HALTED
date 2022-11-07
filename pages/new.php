@@ -30,5 +30,5 @@ $content .= '
 </form>';
 
 $o_index_page = new Page();
-$index_html = $o_index_page->create_page('Add', $content);
+$index_html = $o_index_page->create_page('New', $content);
 echo $index_html;

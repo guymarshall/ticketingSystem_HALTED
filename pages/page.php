@@ -44,12 +44,7 @@ class Page {
             <main role="main" class="pb-3">
                 '.$content.'
             </main>
-        </div>
-        <footer class="border-top footer text-muted">
-            <div class="container">
-                &copy; '.date('Y').' - '.$app_name.' - <a href="./privacy.php">Privacy</a>
-            </div>
-        </footer>';
+        </div>';
 
         $template_html = '
         <!DOCTYPE html>

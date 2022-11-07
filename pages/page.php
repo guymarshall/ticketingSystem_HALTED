@@ -21,10 +21,10 @@ class Page {
                     <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                         <ul class="navbar-nav flex-grow-1">
                             <li class="nav-item">
-                                <a class="nav-link text-dark" href="/index.php">Tickets</a>
+                                <a class="nav-link '; if ($title == 'Tickets') {$body_html .= 'active';} $body_html .= '" href="/index.php">Tickets</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" href="./add.php">Add</a>
+                                <a class="nav-link '; if ($title == 'Add') {$body_html .= 'active';} $body_html .= '" href="./add.php">Add</a>
                             </li>
                         </ul>
                     </div>

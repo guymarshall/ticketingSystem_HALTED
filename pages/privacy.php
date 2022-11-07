@@ -2,8 +2,6 @@
 
 require 'page.php';
 
-$content = '';
-
 $content .= 'This is the privacy page. Nothing to put yet!';
 
 $o_privacy_page = new Page();

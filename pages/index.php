@@ -2,8 +2,6 @@
 
 require 'page.php';
 
-$content = '';
-
 $content .= '
 <p>
     This is my website! It includes projects I have completed. Feel free to have a look around!

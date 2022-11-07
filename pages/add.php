@@ -2,8 +2,6 @@
 
 require 'page.php';
 
-$content = '';
-
 $content .= '
 <form action="index.php" method="POST">
     <label for="title">Title: </label>

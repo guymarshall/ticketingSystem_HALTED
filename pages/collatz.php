@@ -2,8 +2,6 @@
 
 require 'page.php';
 
-$content = '';
-
 $content .= '
 <div class="form-group container col-sm-4" id="inputFields">
     <form action="collatz.php" method="GET">

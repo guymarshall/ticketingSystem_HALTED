@@ -2,8 +2,6 @@
 
 require 'page.php';
 
-$content = '';
-
 $content .= '<body>
   <div class="form-group container col-sm-4" id="inputFields">
     <input autocomplete="off" type="text" class="form-control" id="todo" placeholder="Enter todo">

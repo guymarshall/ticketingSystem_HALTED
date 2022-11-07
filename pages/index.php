@@ -11,5 +11,5 @@ $content .= '
 </p>';
 
 $o_index_page = new Page();
-$index_html = $o_index_page->create_page('Index', $content);
+$index_html = $o_index_page->create_page('Tickets', $content);
 echo $index_html;

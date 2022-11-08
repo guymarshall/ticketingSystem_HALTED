@@ -1,0 +1,3 @@
+download bootstrap css into static directory
+download bootstrap js into static directory
+download jquery js into static directory

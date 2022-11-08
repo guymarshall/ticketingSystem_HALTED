@@ -1,3 +1,6 @@
 download bootstrap css into static directory
 download bootstrap js into static directory
 download jquery js into static directory
+
+for header / footer
+    declare $title variable above the require statement
